@@ -129,3 +129,5 @@ visualizations/**
 *.cp
 *.pdf
 checkpoints/**
+for_pub/**
+!final_psf.png
